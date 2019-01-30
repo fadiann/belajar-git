@@ -65,7 +65,7 @@ input#crop {
 <body>
 <h1>Belajar GIT</h1>
 <h2>Dasar Dasar GIT</h2>
-<p>Belajar GIT lumayan mudah</p>
+<p>Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah Belajar GIT lumayan mudah </p>
 <?php
 $imagePath = "initial-image.jpeg";
 if (! empty($uploadedImagePath)) {
